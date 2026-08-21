@@ -1,0 +1,1 @@
+Um jogo roque-lite onde você precisa avançar o mais longe possível em masmoras geradas proceduralmente, com bosses, equipamentos únicos, linhagens-sanguíneas, classes e você pode até criar clãs e jogar com os amigos.
